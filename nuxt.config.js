@@ -6,7 +6,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'Prismic + Nuxt multi-page example',
+    title: 'KAISOLT',
     htmlAttrs: {
       lang: 'en'
     },
@@ -16,7 +16,7 @@ export default {
       {
         hid: 'description',
         name: 'description',
-        content: 'Prismic + Nuxt multi-page example'
+        content: 'KAISOLT'
       },
       { name: 'format-detection', content: 'telephone=no' }
     ],
